@@ -12,27 +12,27 @@
 </ul>
 
 <h3><b><span style="color:#5C0040">Aula 01:</span></b> Aquisição e leitura de dados reais</h3>
-<a href="https://bootcamps.alura.com.br/course/bootcamp-datascience-modulo1">Notebook Aula 01</a> 
+<a href="https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Aula1.ipynb">Notebook Aula 01</a> 
 <p>Resumo da aula 1</p>
  
 <h3><b><span style="color:#5C0040">Aula 02:</span></b> Primeiras visualizações de dados</h3>
-<a href="https://bootcamps.alura.com.br/course/bootcamp-datascience-modulo1">Notebook Aula 02</a> 
+<a href="https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Aula2.ipynb">Notebook Aula 02</a> 
 <p>Resumo da aula 2</p>
 
 <h3><b><span style="color:#5C0040">Aula 03:</span></b> Manipulação de dados</h3>
-<a href="https://bootcamps.alura.com.br/course/bootcamp-datascience-modulo1">Notebook Aula 03</a> 
+<a href="https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Aula3.ipynb">Notebook Aula 03</a> 
 <p>Resumo da aula 3</p>
 
 <h3><b><span style="color:#5C0040">Aula 04:</span></b> Análise de dados e criação de hipótese</h3>
-<a href="https://bootcamps.alura.com.br/course/bootcamp-datascience-modulo1">Notebook Aula 04</a> 
+<a href="https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Aula4.ipynb">Notebook Aula 04</a> 
 <p>Resumo da aula 4</p>
 
 <h3><b><span style="color:#5C0040">Aula 05:</span></b> Manipulação e interpretação de gráficos</h3>
-<a href="https://bootcamps.alura.com.br/course/bootcamp-datascience-modulo1">Notebook Aula 05</a> 
+<a href="https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Aula5.ipynb">Notebook Aula 05</a> 
 <p>Resumo da aula 5</p>
 
 <h3><b><span style="color:#5C0040">Projeto:</span></b> Título descritivo do projeto</h3>
-<a href="https://bootcamps.alura.com.br/course/bootcamp-datascience-modulo1">Notebook Projeto</a> 
+<a href="https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Project1.ipynb">Notebook Projeto</a> 
 <p>Resumo da aula 5</p>
 
 <h2><b><span style="color:#5C0040">Conteúdo extra</span></b></h2>
