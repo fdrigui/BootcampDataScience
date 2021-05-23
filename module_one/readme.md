@@ -1,14 +1,11 @@
-<img src="img/BCTheme.png"><br>
-<div style="text-align: right"><b>Filipi Destro Rigui</b> | <a href="https://www.linkedin.com/in/filipirigui/">LinkedIn</a> | <a href="https://github.com/fdrigui">Github</a>   </div>
+<img src="img/BCTheme.png">
 
 # Módulo 01: Python e pandas para análise de dados reais
 [Modulo 01: Boorcamp de DataScience Aplicada](https://bootcamps.alura.com.br/course/bootcamp-datascience-modulo1)<br>
-Neste módulo vamos aprender como utilizar **Python**, **Pandas** e **Matplotlib** para explorar os dados financeiros do SUS, mais precisamente os gastos por Unidade Federativa ao longo dos anos. Os desafios se iniciam na aquisição dos dados em uma plataforma do governo e seus possíveis problemas, passando pelo leitura destes dados com o Pandas até a criação de hipóteses na área da saúde, que sempre devem ser cuidadosas, simulando os desafios diários de uma pessoa cientista de dados.<br>
-Link direto para o projeto desse módulo: [*Projeto Módulo 01*](https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Prok.ipynb)
-_______________________________________________
+Neste módulo vamos aprender como utilizar **Python**, **Pandas** e **Matplotlib**> para explorar os dados financeiros do SUS, mais precisamente os gastos por Unidade Federativa ao longo dos anos. Os desafios se iniciam na aquisição dos dados em uma plataforma do governo e seus possíveis problemas, passando pelo leitura destes dados com o Pandas até a criação de hipóteses na área da saúde, que sempre devem ser cuidadosas, simulando os desafios diários de uma pessoa cientista de dados.
 
 ## Curso 01: Python e pandas para análise de dados reais
-Faça esse curso de Data Science e:
+**Faça esse curso de Data Science e:**
 - Aprenda como utilizar Python e Pandas para analisar dados reais.
 - Aprenda como ler dados reais com Pandas e os desafios de lidar com dados governamentais.
 - Analise e explore os dados criando hipótese de forma analítica.
@@ -18,7 +15,7 @@ Faça esse curso de Data Science e:
 ### Aula 01: Aquisição e leitura de dados reais
 [Notebook Aula 01](https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Aula1.ipynb)<br>
 Resumo da aula 1
- 
+
 ### Aula 02: Primeiras visualizações de dados
 [Notebook Aula 02](https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Aula2.ipynb)<br>
 Resumo da aula 2
@@ -37,7 +34,5 @@ Resumo da aula 5
 
 ### Projeto: Título descritivo do projeto
 [Notebook Projeto](https://github.com/fdrigui/BootcampDataScience/blob/main/module_one/Prok.ipynb)<br>
-Resumo da aula 5
+Resumo do Projeto
 
-## Conteúdo extra
-Resumo extra
